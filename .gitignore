@@ -1,0 +1,29 @@
+# Compiled object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Executables and binaries
+*.exe
+*.out
+*.bin
+
+# Debug files
+*.d
+*.map
+*.dis
+
+# Build directories
+build/
+.build/
